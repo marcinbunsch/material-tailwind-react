@@ -1,0 +1,1 @@
+import{MotionGlobalConfig}from"framer-motion";export function updateAnimationsEnabled(enabled){MotionGlobalConfig.skipAnimations=!enabled}
